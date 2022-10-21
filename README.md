@@ -1,1 +1,1 @@
-# training
+# training new terraform by AZ
